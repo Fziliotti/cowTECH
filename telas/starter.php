@@ -271,6 +271,7 @@ $pagina_ativa = "Dashboard";
 
   <!-- REQUIRED JS SCRIPTS -->
   <?php require_once'../include/scripts-footer.php' ?>
+  <script src="../js/Chart.js"></script>
 
   <script>
     $(function () {
