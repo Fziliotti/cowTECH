@@ -1,0 +1,46 @@
+.bloco_01{
+	margin-bottom: 1em;
+	/*box-shadow: 0 0.5px 2px 0.5px rgba(0,0,0,.7);*/
+}
+
+* {text-decoration: none;}
+
+html {
+    font-family: Lato, 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+
+
+h5 {
+    font-size: 1.28571429em;
+    font-weight: 700;
+    line-height: 1.2857em;
+    margin: 0;
+}
+
+.botao-acessar-sistema{
+text-decoration: none;
+list-style: none;
+color: #f1f1f1;
+}
+
+
+
+#frase_dinamica{
+    color: #e5e5e5;
+    padding-bottom: 15%;
+    padding-top: 15%;
+}
+
+
+#header_inicio{
+    padding-top: 2em;
+    width: 100%;
+    height: 100%;
+    background-image: url('../img/background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: 0 0 0.4 0;
+}
+
