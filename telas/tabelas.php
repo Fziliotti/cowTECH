@@ -934,7 +934,7 @@ $pagina_ativa = "Tabelas";
 <!-- REQUIRED JS SCRIPTS -->
 
 <?php require_once'../include/scripts-footer.php' ?>
-<script src="../js/Chart.js"></script>
+
 <script>
   $(function () {
     $('#example1').DataTable()
